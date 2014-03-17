@@ -1,6 +1,8 @@
 wp-simpleCdnfy
 ==============
 
+http://blog.ext5.com
+
 h2. simpleCdnFy 简单的cdn插件
 =====================
 
